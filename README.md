@@ -1,2 +1,2 @@
 # RSM_IG
- a RTM Scheduling Mechanism enhanced Improved Genetic algorithm 
+ A RTM Scheduling Mechanism enhanced Improved Genetic algorithm 
